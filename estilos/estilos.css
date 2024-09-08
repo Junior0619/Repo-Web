@@ -81,7 +81,7 @@ footer{
     background-color: #000;
     text-align: center;
     color: #fff;
-    font-size: 20px;
+    font-size: 21px;
 }
 
 .container-fluid actividades{
@@ -92,13 +92,12 @@ footer{
 footer a{
     color: blueviolet;
     font-size: 30px;
-    letter-spacing: 15px;
+    letter-spacing: 14px;
     text-decoration: none;
 }
 
 .article{
     background-size: cover;
     background-position: center;
-    height: 10px;
+    height: 11px;
 }
-
